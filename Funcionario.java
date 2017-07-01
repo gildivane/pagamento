@@ -1,10 +1,6 @@
 
 package pagamento;
 
-/**
- *
- * @author Maykon
- */
 public class Funcionario {
     private Pessoa p;
     private Boolean matinal;
