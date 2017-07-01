@@ -7,10 +7,6 @@ package pagamento;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Maykon
- */
 public class CargaHorariaNoturna extends CargaHoraria{
 
     @Override
